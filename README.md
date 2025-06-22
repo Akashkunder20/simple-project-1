@@ -17,4 +17,5 @@ A simple and fun Snake Game
 1. Open the game in your browser
 2. Use arrow keys to move the snake
 3. Eat the food to grow longer
-4. don't hit yourself!
+4. Don't hit yourself!
+5. Refresh the browser to restart game
